@@ -1,0 +1,3 @@
+hidutil property --set '{"UserKeyMapping": [{"HIDKeyboardModifierMappingSrc": 0x700000035, "HIDKeyboardModifierMappingDst": 0x700000029}]}'
+cp com.local.KeyRemapping.plist ~/Library/LaunchAgents/
+echo 'ESCMapper has been installed!'
