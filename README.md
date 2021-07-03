@@ -1,5 +1,5 @@
 # ESCMapper
 Maps The ~ Key to ESC on MacOS
 
-
-To install, simply execute the installtweak bash file by double clicking on the file or running ./installtweak in terminal and you're all set!
+First, download the zip and open
+To install, simply double click the installtweak file and then grant permission in Securit & Privacy in System Preferences
